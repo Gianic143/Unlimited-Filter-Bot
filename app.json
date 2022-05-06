@@ -35,6 +35,7 @@
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
             "value": ""
+            "required": false
         },
         "DATABASE_NAME": {
             "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
